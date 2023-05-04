@@ -1,2 +1,5 @@
 # jogodatialela
 Bem vindos ao meu primeiro site. No site o usuário pode realizar o login, publicar postagens, escolher seus jogos favoritos, visualizar as postagens dos demais usuários, colocar uma foto de perfil e editar. Para desenvolvê-lo eu utilizei o Python como linguagem de programação e o Flask para o framework, além do Bootstrap para criar o HTML da página
+
+O site foi construído em duas partes. A primeira foi o conjunto de arquivos em Python que realiza as funcionalidades do site, criando o banco de dados do usuário, permitindo a criação de postagens no site, criando os formulários de criação de conta, de login e de perfil do usuário, criptografando a senha para dar mais segurança, etc. Na segunda parte, foi feita toda a parte do front end do site em HTML utilizando os modelos do Bootstrap para dar funcionalidade ao que estava no backend, criando uma barra de navegação na qual o usuário pode escolher para qual página do site ele quer ir, estruturando os formulários de login, criar conta e de edição do perfil, etc.
+
